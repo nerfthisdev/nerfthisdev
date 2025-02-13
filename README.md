@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,go,ts,react,git,docker,c&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,go,ts,react,git,docker,c,python&theme=light)](https://skillicons.dev)
