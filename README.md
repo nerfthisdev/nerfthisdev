@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://readme-stats-xi-rust.vercel.app/api/top-langs?username=nerfthisdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2&hide=javascript,html)" height="150" alt="languages graph"  />
+  <img src="https://readme-stats-xi-rust.vercel.app/api/top-langs?username=nerfthisdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2&hide=javascript,html&exclude_repo=learning-process)" height="150" alt="languages graph"  />
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lilac-tau.vercel.app?user=nerfthisdev&theme=onedark&card_width=320&card_height=150" alt="GitHub Streak" height="150" /></a>
 </div>
 
