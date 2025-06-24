@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nerfthisdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lilac-tau.vercel.app?user=nerfthisdev&theme=onedark" alt="GitHub Streak" height="150" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lilac-tau.vercel.app?user=nerfthisdev&theme=onedark&card_width=320&card_height=150" alt="GitHub Streak" /></a>
 </div>
 
 
