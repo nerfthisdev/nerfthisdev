@@ -7,6 +7,7 @@
 </div>
 
 
+[![GitHub Streak](https://github-readme-streak-stats1-c0wraypz5-nerfthisdevs-projects.vercel.app?user=nerfthisdev&theme=gruvbox)](https://git.io/streak-stats)
 
 ### 🏢 University repos
 [![nerfthisdev-itmo](https://img.shields.io/badge/GitHub-nerfthisdev_itmo-181717?style=for-the-badge&logo=github)](https://github.com/nerfthisdev-itmo)
