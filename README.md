@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://readme-stats-xi-rust.vercel.app/api/top-langs?username=nerfthisdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2&hide=javascript,html,html,css&exclude_repo=learning-process,wrench,kickstart.nvim)" height="150" alt="languages graph"  />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats1-c0wraypz5-nerfthisdevs-projects.vercel.app?user=nerfthisev&theme=gruvbox" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats1-c0wraypz5-nerfthisdevs-projects.vercel.app?user=nerfthisdev&theme=gruvbox" alt="GitHub Streak" /></a>
   <a href="https://git.io/streak-stats"><img src="https://readme-stats-xi-rust.vercel.app/api?username=nerfthisdev&show_icons=true&theme=radical" alt="GitHub Streak" height="150" /></a>
 </div>
 
